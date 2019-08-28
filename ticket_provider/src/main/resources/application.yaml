@@ -1,0 +1,9 @@
+server:
+  port: 8088
+dubbo:
+  application:
+    name: ticket-provider
+  registry:
+    address: zookeeper://127.0.0.1:2181
+  scan:
+    base-packages: com.example.demo.service

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ticket-consumer/ticket-consumer.iml" filepath="$PROJECT_DIR$/ticket-consumer/ticket-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticket_provider/ticket_provider.iml" filepath="$PROJECT_DIR$/ticket_provider/ticket_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ticketapi/ticketapi.iml" filepath="$PROJECT_DIR$/ticketapi/ticketapi.iml" />
+    </modules>
+  </component>
+</project>
